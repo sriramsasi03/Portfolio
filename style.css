@@ -766,7 +766,8 @@ footer span a:hover{
 
     }
     .home{
-        background: #111;
+    background: url("img/circledp1.jpeg")no-repeat right;
+    background-color: rgb(0, 0, 0);
     }
     
 }
