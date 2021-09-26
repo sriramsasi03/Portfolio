@@ -651,17 +651,19 @@ footer span a:hover{
     .home .max-width{
         margin-left: 0px;
     }
+    
 }
 @media(max-width:1104px){
     .about .about-content .left img{
         height:350px;
-        width:350px;
-        
-        
+        width:350px;   
     }
 }
-@media(max-width:991px){
-    
+@media(max-width:1197px){
+    .home{
+        background: url("img/circledp1.jpeg")no-repeat right 80px;
+        background-color: rgb(0, 0, 0);
+        }
 }
 @media(max-width:947px){
     
@@ -764,10 +766,6 @@ footer span a:hover{
     .projects .projects-content .card ,.skills .skills-content .column{
         width: 100%;
 
-    }
-    .home{
-    background: url("img/circledp1.jpeg")no-repeat right;
-    background-color: rgb(0, 0, 0);
     }
     
 }
